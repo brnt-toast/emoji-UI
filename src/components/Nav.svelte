@@ -33,6 +33,6 @@
     }
 
     .signup {
-        background-color: aqua;
+        background-color: #FFDE34;  /* emoji yellow */
     }
 </style>
