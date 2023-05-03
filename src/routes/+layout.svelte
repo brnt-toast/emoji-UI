@@ -1,6 +1,6 @@
 <script>
     import "../main.css"
-    import Nav from '../Nav.svelte'
+    import Nav from '../components/Nav.svelte'
 </script>
 
 <Nav />
