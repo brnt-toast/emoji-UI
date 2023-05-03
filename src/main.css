@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     text-decoration: none;
+    outline: 1px solid green;
     margin: 0;
     padding: 0;
 }
