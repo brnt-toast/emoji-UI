@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    outline: 1px solid green;
     text-decoration: none;
     margin: 0;
     padding: 0;
@@ -16,4 +15,8 @@ body {
 
 button, input, span, a  {
     font-size: inherit;
+}
+
+button {
+    cursor: pointer;
 }
