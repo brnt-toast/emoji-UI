@@ -5,16 +5,12 @@
         🏠
     </a>
 
+    <p>¯\_(ツ)_/¯</p>
 
-    <div class="button_group">
+    <button>    
+        ⚙️
+    </button>
 
-        <button class="signup">
-            Sign Up
-        </button>
-        <button>    
-            ⚙️
-        </button>
-    </div>
 </nav>
 
 <style>
@@ -23,16 +19,6 @@
         justify-content: space-between;
         align-items: center;
         padding: 1rem 0;
-    }
-
-    button {
-        background-color: transparent;
-        border: none;
-        padding: 1rem;
-        border-radius: .5rem;
-    }
-
-    .signup {
-        background-color: #FFDE34;  /* emoji yellow */
+        border-bottom: 1px solid white;
     }
 </style>
