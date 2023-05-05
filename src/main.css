@@ -8,6 +8,8 @@
 
 :root {
     font-family: sans-serif;
+    background-color: black;
+    --yellow: #FFDE34; /* emoji yellow */
 }
 
 body {
@@ -16,8 +18,20 @@ body {
 
 button, input, span, a  {
     font-size: inherit;
+    border-radius: .5rem;
+    padding: .5rem;
 }
 
 button {
     cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+
+h1 {
+    padding: 1rem 0;
+}
+
+h1,p {
+    color: white;
 }
